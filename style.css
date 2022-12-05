@@ -1,9 +1,7 @@
-.box {
-    width: 200px;
-height: 200px;
-background-color: green;
-border: 15px solid red;
-padding: 15px;
-margin: 15px;
-box-sizing: border-box;
+div {
+  transition: background-color 300ms;  
+}
+
+div:hover {
+    background-color: black;
 }
