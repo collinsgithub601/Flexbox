@@ -1,7 +1,0 @@
-div {
-  transition: background-color 300ms;  
-}
-
-div:hover {
-    background-color: black;
-}
